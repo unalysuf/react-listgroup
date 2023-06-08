@@ -1,3 +1,3 @@
 # react-listgroup
 
-In this project, I have created a unordered list with Bootstrap and TypScript
+The project aims how can i create unordered list in react framework and how can i design it with bootstrap.
